@@ -1,0 +1,24 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Build (MSYS2 g++)",
+      "type": "shell",
+      "command": "g++ -std=c++17 -O2 main.cpp OutilsCreationImage.cpp -o saturn_vendredi.exe",
+      "options": {
+        "env": {
+          "PATH": "${env:PATH};C:\\msys64\\mingw64\\bin"
+        }
+      },
+      "group": { "kind": "build", "isDefault": true },
+      "problemMatcher": ["$gcc"]
+    },
+    {
+      "label": "Run exe",
+      "type": "shell",
+      "command": ".\\saturn_vendredi.exe",
+      "dependsOn": "Build (MSYS2 g++)",
+      "presentation": { "reveal": "always" }
+    }
+  ]
+}
